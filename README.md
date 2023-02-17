@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my CodeCrush where I showcase my talents as a HackHound and a RepoRanger. I am currently in my pre-final year at Thapar Institute of Engineering and Technology pursuing an BE in Computer Engineering. 
+Welcome to my CodeCrush where I showcase my talents as a HackHound and a RepoRanger. I am currently in my pre-final year at Thapar Institute of Engineering and Technology pursuing a BE in Computer Engineering. 
 I have developed a keen interest in Data Science. Especially in fields of NLP, Time Series, Prediction Models and Computer Vision. I am still building my portfolio and hope to add tons of projects soon. Thank you for visiting my GITHUB! 😄✨
 <!--
 **aashutoshdubey0/aashutoshdubey0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
